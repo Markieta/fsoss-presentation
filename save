@@ -1,0 +1,13 @@
+:w                  Save
+
+
+:q                  Quit
+
+
+:q!                 Quit without Saving
+
+
+:x                  Save and Quit
+
+
+:w !sudo tee %      Save as root while readonly

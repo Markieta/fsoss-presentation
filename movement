@@ -1,3 +1,7 @@
+G   Go to Line 1
+
+
+
 -----------
 |    k    |
 |    |    |
@@ -5,3 +9,24 @@
 |    |    |
 |    j    |
 -----------
+
+
+
+w   To   Beginning   Of   Next   Word
+e   tO   enD         oF   nexT   worD
+b   To   Beginning   Of   Prev   Word
+
+// Use % to travel between parentheses
+{
+    (
+        ["Weeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"]
+    )
+}
+
+
+:20 Go to Line 20
+
+
+
+
+gg  Go to Last Line
