@@ -22,3 +22,12 @@ else
             n = "3<";
             t = "3<";
 }
+
+
+zf         fold
+zo         open
+zfG        fold cursor to bottom
+zfgg       fold top to cursor
+
+CTRL+w s   Horizontal Split
+CTRL+w v   Vertical Split

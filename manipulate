@@ -1,0 +1,66 @@
+i      Insert mode
+
+I      Insert mode at beginning of line
+
+r      Replace 1 character
+
+R      Replace mode
+
+Esc    Return to default mode
+
+o      Create newline after
+
+O      Create newline before
+
+--------------------
+--------------------
+--------------------
+
+u      Undo
+
+CTRL+r Redo
+
+dd     Delete line
+
+DELETE ME!
+
+yy     Yank line
+
+YANK ME!
+
+p      Paste from the yank buffer
+
+
+7d     Delete 7 lines
+
+Delete 7 lines
+Delete 7 lines
+Delete 7 lines
+Delete 7 lines
+Delete 7 lines
+Delete 7 lines
+Delete 7 lines
+
+5y     Yank 5 lines
+
+Yank 5 lines
+Yank 5 lines
+Yank 5 lines
+Yank 5 lines
+Yank 5 lines
+
+d$     Delete from cursor to end of line$%#^&@#
+
+/find_text
+
+/\cFind_Non_Case_Sensitive_Text
+
+\    Escape special characters
+
+n    Next search result
+
+N    Previous search result
+
+.    Repeat previous command
+
+:%s/find/replace/g
